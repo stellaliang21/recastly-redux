@@ -1,4 +1,5 @@
 import React from 'react';
+import App from './App.js';
 
 var VideoPlayer = ({video}) => (
   !video

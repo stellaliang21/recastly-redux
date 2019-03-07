@@ -1,4 +1,5 @@
 import React from 'react';
+import VideoList from './VideoList'
 
 var VideoListEntry = ({video, handleVideoListEntryTitleClick}) => (
   <div className="video-list-entry">
